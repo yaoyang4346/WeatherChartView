@@ -20,10 +20,6 @@ import java.text.SimpleDateFormat;
 import java.util.ArrayList;
 import java.util.Calendar;
 
-/**
- * Created by chenyang on 2017/2/21.
- */
-
 public class WeatherChartView extends View{
     private static final int DAY_NUM = 6;
     private int[] temMax = new int[DAY_NUM];
